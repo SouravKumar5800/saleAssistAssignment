@@ -38,7 +38,7 @@ Impoprt Axios to use in the app for HTTP request.
 
 ### Overview of TANN TRIM Website
 
-Here in this assignment axios has been used for HTTP get request to collect the customer review from the API URL and showed in the bottom of the website. All the rest datas, Logos, Images has been borrowed from the given design in Figma. 
+Here in this assignment axios has been used for HTTP get request to collect the product from the Fake API URL and showed in the website. All the rest datas, Logos, Images has been borrowed from the given design in Figma. 
 
 the website has been made responsive by using media queries. 
 
