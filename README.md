@@ -40,4 +40,9 @@ Impoprt Axios to use in the app for HTTP request.
 
 Here in this assignment axios has been used for HTTP get request to collect the customer review from the API URL and showed in the bottom of the website. All the rest datas, Logos, Images has been borrowed from the given design in Figma. 
 
+the website has been made responsive by using media queries. 
+
 URL of the designed website and GIT link has been shared in the submission form. 
+
+###
+netlify published link: https://661cdb768576dc208014aa14--luxury-crepe-fa53aa.netlify.app/
