@@ -11,8 +11,8 @@ const ProductCard = props => {
                 <img src = {productImg} alt = "product" className = "product-img-property"/>
                 <p className = "font-style">{productName}</p>
                 <div className = "price-section">
-                    <img src = "pageLogos/price.png" alt = "price" className="img-mobile-view"/>
-                    <img src = "pageLogos/bag.png" alt = "bag" className="img-mobile-view"/>
+                    <img src = "pageLogos/price.png" alt = "price" className="price-img-mobile-view"/>
+                    <img src = "pageLogos/bag.png" alt = "bag" className="bag-img-mobile-view"/>
                 </div>    
             </div>
         </li>   

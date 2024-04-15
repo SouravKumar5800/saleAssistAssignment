@@ -32,7 +32,10 @@
     .font-style{
       font-size: 12px;
     }
-    .img-mobile-view{
+    .price-img-mobile-view{
       width:70%;
+    }
+    .bag-img-mobile-view{
+      width:20%;
     }
   }

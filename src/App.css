@@ -11,13 +11,19 @@
   align-items: center;
 }
  @media screen and (max-width:700px){
+  .bg-container{
+    padding-left: 30px;
+    padding-right: 30px;
+  }
   .logo-mobile-view{
     display:flex;
-    width:100px
+    width:40%;
+    margin-bottom: 20px;
   }
   .nav-option-mobile-view{
     display:flex;
-    width:100px
+    width:40%;
+    margin-bottom: 20px;
   }
  }
 .bg-container ul{
@@ -55,8 +61,7 @@
 }
 @media screen and (max-width:700px){
   .category-mobile-view{
-    display:flex;
-    
+    display:flex; 
     width:100%;
   }
 }
